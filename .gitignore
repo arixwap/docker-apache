@@ -7,6 +7,8 @@
 /apache2/ssl/*.csr
 /apache2/ssl/*.org
 
+!/php-fpm/
+
 .DS_Store
 !.editorconfig
 !.env.example
